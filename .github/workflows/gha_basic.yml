@@ -31,5 +31,6 @@ jobs:
           file: ./Dockerfile_prod
           push: true
           tags: |
-            spg51/lab:ghlab10base
+            ivancheredn/lab10:first_run
+#spg51/lab:ghlab10base
           
